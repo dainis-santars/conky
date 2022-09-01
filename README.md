@@ -1,2 +1,2 @@
 # conky
-Viss iekš darbi.md
+Viss iekš `Darbi.md`
