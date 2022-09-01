@@ -1,0 +1,1 @@
+1. Uzinstalēt fontu;
